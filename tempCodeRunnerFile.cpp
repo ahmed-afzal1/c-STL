@@ -1,1 +1,1 @@
-*it
+newvector
